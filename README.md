@@ -8,7 +8,7 @@
     
   
 # Description
- All-Hacking-Tools is a Collections of Hacking tools, Which is used to do hacking. It has more than `10` types of tools that have more than `605` different types of Hacking Application that used for real hacking. Some example of Tools - Trojan Rat Builder, Ransomware Builder, Crypter, Miner, Worm, Botnet,Keylogger & Stealer, Virus Builder and Many more. Many Features have Two option, Android Version and Pc Version.Many of the tools have more than 2 version with many distributors for testing purpose. We Collect this tools from different Supplier's and Websites around the world. This hacking tool is the result of our hard work.
+ All-Hacking-Tools is a Collections of Hacking tools, Which is used to do hacking. It has more than `10` types of tools that have more than `610` different types of Hacking Application that used for real hacking. Some example of Tools - Trojan Rat Builder, Ransomware Builder, Crypter, Miner, Worm, Botnet,Keylogger & Stealer, Virus Builder and Many more. Many Features have Two option, Android Version and Pc Version.Many of the tools have more than 2 version with many distributors for testing purpose. We Collect this tools from different Supplier's and Websites around the world. This hacking tool is the result of our hard work.
   
 ## List Of All Tools
 - Trojan Rat Builder(310)
