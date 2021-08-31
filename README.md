@@ -365,9 +365,7 @@ This tool kit include many of the tools that can be use to hacking. It has best 
 [![YouTube](https://img.shields.io/badge/You-Tube-red?style=&logo=youtube&logoColor=red)](https://www.youtube.com/channel/UCh5_VB1guUcc0mWAOc7etrA)
 [![Git Hub](https://img.shields.io/badge/Git-Hub-lightgrey?style=&logo=github&logoColor=white)](https://github.com/in-future-world)
 [![Contact Us](https://img.shields.io/badge/Contact-Us-blue?style=&logo=deviantart&logoColor=white)](https://www.infutureworld.xyz/contact-us)
-
-
-
+[![What's app](https://img.shields.io/badge/What's-Apps-graan?style=&logo=whatsapp&logoColor=graan)](https://wa.me/message/RJSMU4K3QDHZC1)
 
 Primary Email: info@infutureworld.xyz <br />
 Secondary Email: help.infutureworld@gmail.com <br />
@@ -376,6 +374,7 @@ YouTube: [In_Future_World](https://www.youtube.com/channel/UCh5_VB1guUcc0mWAOc7e
 Instagram: [In_Future_World](https://www.instagram.com/in_future_world/) <br />
 Twitter: [In_Future_World](https://twitter.com/In_future_world) <br />
 GitHub: [in-future-world](https://github.com/in-future-world) <br />
+WhatsApp: [+1 (201) 422-2538](https://wa.me/message/RJSMU4K3QDHZC1)<br />
 
 
 ## Legal Warning for Users
