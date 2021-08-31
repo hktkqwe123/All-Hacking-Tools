@@ -32,8 +32,8 @@
  ## Paid Tool, Free and Paid
  You can also take a look on List of tool that are very costly but we providw it free or in 50% discount.</br>
  
- [Click here to take look](https://github.com/in-future-world/All-Hacking-Tools/blob/main/README.md#paid-tools-list)
- 
+ [Click here to take look]( https://github.com/in-future-world/All-Hacking-Tools#paid-tools-list)
+
  ## Features Under Tools
  See below for list of hacking application. You can also download any single file without downloading whole Repository.
  ### 1 - 
